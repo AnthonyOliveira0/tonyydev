@@ -3,7 +3,7 @@
 ## :chart_with_upwards_trend: Minhas estatísticas
 
 <div style="display: inline_block" align = "center">
-  <a href="https://github.com/vsantos1711">
+  <a href="https://github.com/tonyydev">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tonyydev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyydev&layout=compact&langs_count=168&theme=chartreuse-dark"/>         
 </div>
